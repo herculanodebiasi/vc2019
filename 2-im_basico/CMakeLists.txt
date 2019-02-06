@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( im_basico )
+find_package( OpenCV REQUIRED )
+add_executable( im_basico im_basico.cpp )
+target_link_libraries( im_basico ${OpenCV_LIBS} )

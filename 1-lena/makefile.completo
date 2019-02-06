@@ -1,0 +1,12 @@
+CC = g++
+CFLAGS = -g -Wall `pkg-config opencv --cflags --libs`
+PROG = olaLena
+
+OPENCV = `pkg-config opencv --cflags --libs` 
+LIBS = $(OPENCV)
+
+$(PROG): olaLena.o
+	$(CC) -o $(PROG) $(LIBS) olaLena.o
+
+olaLena.o: 
+	$(CC) $(CFLAGS) -c olaLena.cpp
