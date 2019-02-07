@@ -4,14 +4,14 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/debiasi/programas/opencv/2-im_basico/im_basico.cpp" "/home/debiasi/programas/opencv/2-im_basico/CMakeFiles/im_basico.dir/im_basico.cpp.o"
+  "/home/unoesc/programas/opencv/vc2019/2-im_basico/im_basico.cpp" "/home/unoesc/programas/opencv/vc2019/2-im_basico/CMakeFiles/im_basico.dir/im_basico.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "/usr/local/include/opencv"
-  "/usr/local/include"
+  "/opt/OpenCV-3.4.5/include"
+  "/opt/OpenCV-3.4.5/include/opencv"
   )
 
 # Targets to which this target links.

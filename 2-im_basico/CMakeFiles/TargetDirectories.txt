@@ -1,3 +1,3 @@
-/home/debiasi/programas/opencv/2-im_basico/CMakeFiles/edit_cache.dir
-/home/debiasi/programas/opencv/2-im_basico/CMakeFiles/rebuild_cache.dir
-/home/debiasi/programas/opencv/2-im_basico/CMakeFiles/im_basico.dir
+/home/unoesc/programas/opencv/vc2019/2-im_basico/CMakeFiles/rebuild_cache.dir
+/home/unoesc/programas/opencv/vc2019/2-im_basico/CMakeFiles/im_basico.dir
+/home/unoesc/programas/opencv/vc2019/2-im_basico/CMakeFiles/edit_cache.dir

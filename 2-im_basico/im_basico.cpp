@@ -10,7 +10,7 @@ using namespace std;
 
 int main()
 {
-    Mat im = imread("/home/debiasi/Pictures/lena.png");
+    Mat im = imread("/home/unoesc/Pictures/lena.png");
 
     cout << "Comprimento: " << im.size().width << endl;
     cout << "Altura.....: " << im.size().height << endl;
