@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-    Mat im = cv::imread("/home/debiasi/Pictures/lena.png");
+    Mat im = cv::imread("/home/unoesc/Pictures/lena.png");
     if (im.empty())
     {
         cerr << "Cannot load image!" << endl;

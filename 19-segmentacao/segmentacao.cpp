@@ -63,7 +63,7 @@ int main() {
    }
 
    namedWindow("Video");
-   namedWindow("Segmentation");
+   namedWindow("Segmentation", WINDOW_NORMAL);
 
    createTrackbar("0. H\n1. S", "Segmentation", &hs_slider, 1, on_hs_trackbar);
    createTrackbar("Low threshold", "Segmentation", &low_slider, 255, on_low_thresh_trackbar);
